@@ -4,7 +4,7 @@
 <h3 align="center">💻Tech Stacks💻</h3>
 
 <p align="center"> Techs I've used least one </p>
-<h1></h1>
+<h2></h2>
 
 
 <div align=center> 
