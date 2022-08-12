@@ -4,8 +4,6 @@
 <h3 align="center">💻Tech Stacks💻</h3>
 
 <p align="center"> Techs I've used least one </p>
-<h2></h2>
-
 
 <div align=center> 
 <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
