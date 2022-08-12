@@ -1,9 +1,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=FF7B39&height=250&animation=twinkling&section=header&text=UJin%20BANG&fontSize=90&fontColor=FFE0C7)
 
-<div align=center><h1>💻Tech Stacks💻</h1></div>
+<div align=center><h1>💻Tech Stacks💻</h1>
 
 <p align="center"> Techs I've used least one </p>
+</div>
 
 <div align=center> 
 <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
