@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=FF7B39&height=250&animation=twinkling&section=header&text=U%20jineeee&fontSize=90&fontColor=FFE0C7)
+![header](https://capsule-render.vercel.app/api?type=wave&color=FF7B39&height=250&animation=twinkling&section=header&text=U%20Jineeee&fontSize=90&fontColor=FFE0C7)
 
 <h3 align="center">💻Tech Stacks💻</h3>
 
