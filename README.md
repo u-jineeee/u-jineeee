@@ -7,13 +7,13 @@
 
 <div align=center> 
 <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
-  <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/c%23-239120?style=flat-square&logo=Csharp&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-  <br>
-  
   <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/mariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white">
+  <br>
+  
+  <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/c%23-239120?style=flat-square&logo=Csharp&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
   <br>
  </div>
